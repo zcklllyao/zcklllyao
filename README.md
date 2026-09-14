@@ -11,11 +11,10 @@
 - [multagent](https://github.com/zcklllyao/multagent) — 多智能体协作实验。
 - [myskills](https://github.com/zcklllyao/myskills) — 个人技能与实践记录。
 - [auto-fill-info](https://github.com/zcklllyao/auto-fill-info) — 自动填写信息的小工具。
-- [i-need-back](https://github.com/zcklllyao/i-need-back) — 持续生长中的实验项目。
 
 ## Links
 
-[个人主页（mine）](https://github.com/zcklllyao/mine) · [全部仓库](https://github.com/zcklllyao?tab=repositories) · [Email](mailto:zcklllyao@163.com)
+[全部仓库](https://github.com/zcklllyao?tab=repositories) · [Email](mailto:zcklllyao@163.com)
 
 ---
 
